@@ -1,0 +1,37 @@
+#maim {
+    margin-left: 40%;
+    margin-top: 10%;
+  
+   
+    
+  }
+  #f {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-color: red;
+  }
+  #s {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-color: red;
+    margin-top: -99px;
+    margin-left: 70px;
+  }
+  #t {
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    transform: rotate(313deg);
+    margin-top: -65.7px;
+    margin-left: 38px;
+  }
+  #h1{
+      color: red;
+      margin-left: 0%;
+  }
+  #h2{
+      color: red;
+      margin-left: 10%;
+  }
